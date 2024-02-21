@@ -4,8 +4,14 @@ This repository contains [description of your project].
 
 ## Prerequisites
 
-- [List of required software and libraries]
-- [Specific versions of required tools, if applicable]
+- langchain
+- langsmith
+- langchainhub
+- langchain-openai
+- tiktoken
+- pandas
+- duckduckgo-search
+- python-dotenv
 
 ## Installation
 
